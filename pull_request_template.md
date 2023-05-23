@@ -1,6 +1,6 @@
 ### General:
 
-- [ ] Have you followed the guidelines in our Contributing document?
+- [ ] If related to an issue, link here: #
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
 
 ### Testing:
