@@ -1,6 +1,7 @@
 ### General:
 
-- [ ] If related to an issue, link here: #
+Related issue (optional): #
+
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
 
 ### Testing:
