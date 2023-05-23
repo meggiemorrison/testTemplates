@@ -11,5 +11,6 @@
 
 ### Documentation:
 
-- [ ] Does documentation exist for this substack? - [ ] Have you updated documentation for this change?
+- [ ] Does documentation exist for this substack?
+  - [ ] Have you updated documentation for this change?
 - [ ] If no, have you added documentation?
