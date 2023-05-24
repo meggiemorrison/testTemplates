@@ -1,4 +1,4 @@
-Please go the the `Preview` tab and select the appropriate sub-template:
+Please go to the `Preview` tab and select the appropriate sub-template:
 
-- [Regular](.github/regular_template.md)
-- [Hotfix](?expand=1&template=hotfix_template.md)
+- [Regular](?quick_pull=1&template=regular_template.md)
+- [Hotfix](?quick_pull=1&template==hotfix_template.md)
